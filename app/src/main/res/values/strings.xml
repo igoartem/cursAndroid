@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Чат андроид 1.0</string>
+    <string name="action_leave">Отключиться</string>
+    <string name="action_send">Отправить</string>
+    <string name="prompt_message">Сообщение</string>
+
+    <string name="connect">Подключено</string>
+    <string name="disconnect">Отключено, проверьте подключение к Интернету.</string>
+    <string name="error_connect">Не удалось подключиться</string>
+
+    <string name="message_user_joined">%s подключился</string>
+    <string name="message_user_left">%s отключился</string>
+
+</resources>
